@@ -112,14 +112,13 @@ nav.sticky {
   z-index: 2;
 }
 .lingkar1 {
-  position: fixed;
+  position: absolute;
   top: 2rem;
   left: 1rem;
   width: 600px;
   height: 600px;
   border-radius: 100%;
   z-index: -1;
-  overflow-x: hidden !important;
   background-color: #1b1b1b;
 }
 
