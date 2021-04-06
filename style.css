@@ -23,6 +23,7 @@ body {
 
 /* Navigasi */
 nav {
+  overflow-x: hidden !important;
   display: flex;
   justify-content: space-around;
   align-items: center;
