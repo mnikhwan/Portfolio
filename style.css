@@ -152,7 +152,7 @@ nav.sticky {
     /* margin-top: 20%; */
   }
   .lingkar1 {
-    display: none;
+    display: none !important;
 /*   width: 150px;
   height: 150px;
   position: fixed;
