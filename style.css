@@ -111,6 +111,7 @@ nav.sticky {
 }
 #about{
   color: #fff !important;
+  background-color: #202020 !important;
   z-index: 2;
 }
 .wave1 {
