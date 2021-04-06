@@ -23,7 +23,6 @@ body {
 
 /* Navigasi */
 nav {
-  overflow-x: hidden !important;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -120,6 +119,7 @@ nav.sticky {
   height: 600px;
   border-radius: 100%;
   z-index: -1;
+  overflow-x: hidden !important;
   background-color: #1b1b1b;
 }
 
